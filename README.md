@@ -21,7 +21,7 @@ Python · SQL ·  · R ·  · SAS · Streamlit ·  · MBA · Actuarial Science
 `genai-clinical-notes` → using BERT + GPT-4o to enrich EHR data.
 
 ### 📫 Let’s connect
-[LinkedIn](https://www.linkedin.com/in/douceur-tengu/) • [Website](https://www.youtube.com/watch?v=3Du1Q81EO8I)
+[LinkedIn](https://www.linkedin.com/in/douceur-tengu/) • [Podcast](https://www.youtube.com/watch?v=3Du1Q81EO8I)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DouceurTengu&show_icons=true&hide=issues&count_private=true" />
