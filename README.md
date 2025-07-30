@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Douceur 👋</h1>
 <p align="center">
 Director of Analytics • Turning AI into higher-value care<br>
-Python · SQL ·  · R ·  · SAS · Streamlit ·  · MBA · Actuarial Science
+Python · SQL · R · SAS · Streamlit · MBA · Actuarial Science
 </p>
 
 ### 🔭 Currently shipping
